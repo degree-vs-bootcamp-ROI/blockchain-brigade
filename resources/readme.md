@@ -2,8 +2,10 @@
 
 ## Branching
 Overview
-### Steps for Creeating Branches
+### Steps for Creating Branches
+----
 steps go here
 
 ### Steps for Merging Branch Changes
+---
 steps go here
