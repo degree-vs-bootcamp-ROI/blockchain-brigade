@@ -127,6 +127,7 @@ dmypy.json
 config_om.py
 config_ab.py
 config_kr.py
+config_fr.py
 
 # Pyre type checker
 .pyre/
