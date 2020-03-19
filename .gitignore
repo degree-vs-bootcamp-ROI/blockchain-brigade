@@ -132,3 +132,5 @@ config_fr.py
 # Pyre type checker
 .pyre/
 
+# Large datasets for Jupyter Notebooks
+remote_resources/
