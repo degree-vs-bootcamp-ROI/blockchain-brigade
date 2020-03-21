@@ -32,10 +32,10 @@ In this project we will develop a data analysis to determine the educational and
   </tr>
 </table>
 
-## Project Overview <br/><br/>
-SCOPE: <br/><br/>
+## Project Overview
+SCOPE: <br/>
 To complete a full data analysis of API data and CSV files to determine job availability, education level and salary potential of completing a Data Science boot camp. <br/><br/>
-OBJECTIVE: <br/><br/>
+OBJECTIVE: <br/>
 To understand the career benefit of completing Data Science boot camp
 Utilize the data results to make an educated decision on career path
 Gain an understanding of how completion of a Data Science boot camp compares to a traditional Data Science degree in today’s job market
