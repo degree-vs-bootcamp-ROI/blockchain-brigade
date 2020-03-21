@@ -3,7 +3,7 @@ Blockchain Brigade is a Data Analytics team that tracks the demand for Post Seco
 
 ## Overview
 **Data Science Bootcamp vs Traditional Data Science Degree** <br/>
-In today’s job market it is imperative for you to ensure your credentials are marketable and can appeal to multiple industries.  Technology is continuously evolving, and you may have noticed an increased trend in Data Science Bootcamps being offered.  <br />
+In today’s job market it is imperative for you to ensure your credentials are marketable and can appeal to multiple industries.  Technology is continuously evolving, and you may have noticed an increased trend in Data Science Bootcamps being offered.  <br /><br />
 In this project we will develop a data analysis to determine the educational and financial benefit of obtaining data science credentials from completing a bootcamp vs getting a traditional data science degree.
 
 ## Project Team / Organization
