@@ -46,5 +46,5 @@ We wanted to determine the education level of people who enroll in Data Science 
 - Utilizing StockOver 2019 survey data, we imported the data file into Jupyter Notebook with a pd.read function. By creating a data frame and then cleaning the data within the frame created; with the use of functions like .replace, .groupby and .append , we were able identify the education levels within scope.  
 - Based on the results of the analysis 49.6% of the survey participants who completed a Data Science Bootcamp do not have a traditional data science degree. With data science credentials trending a such a fast pace in today’s market people are choosing to complete a bootcamp in order to remain marketable.
 
-![Edu_Level_Pie](edu_level_pct.png)
+![Edu_Level_Pie](images/edu_level_pct.png)
 
