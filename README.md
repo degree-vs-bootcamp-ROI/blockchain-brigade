@@ -40,3 +40,9 @@ OBJECTIVE: <br/>
 - Utilize the data results to make an educated decision on career path
 - Gain an understanding of how completion of a Data Science boot camp compares to a traditional Data Science degree in today’s job market
 - Project the financial benefit of salary increase potential 
+
+## Let's Go to the Analysis
+We wanted to determine the education level of people who enroll in Data Science programs.<br/> <br />
+- Utilizing StockOver 2019 survey data, we imported the data file into Jupyter Notebook with a pd.read function. By creating a data frame and then cleaning the data within the frame created; with the use of functions like .replace, .groupby and .append , we were able identify the education levels within scope.  
+- Based on the results of the analysis 49.6% of the survey participants who completed a Data Science Bootcamp do not have a traditional data science degree. With data science credentials trending a such a fast pace in today’s market people are choosing to complete a bootcamp in order to remain marketable.
+
