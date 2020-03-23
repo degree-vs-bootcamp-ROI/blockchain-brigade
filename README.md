@@ -53,7 +53,7 @@ Additionally we wanted to look at how many people with visas are working in the 
 - Then we wanted to look at the comparison in salaries for each job title. So made a bar graph comparing job titles to salaries and another bar graph comparing the number of H1B1 visas to job titles.  
 
 ![Edu_Level_Pie](images/ny_ds_visas_by_role.png) <br />
-
+---
 ![Edu_Level_Pie](images/avg_salary_for_H1.png) <br />
 
 
