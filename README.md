@@ -64,7 +64,7 @@ Using the NY times API we wanted to see the past and current movement of increas
 
 An important thing to note as well, given the New York Times is a main stream print and online publication (as opposed to a specialized IT guild publication), for the data science domain to to be featured almost twice a month at this peak, speaks volumes of it impact across all domains and genres of life. It's multi-domain impact is reflected in the variety of News Desk section under which the Machine Learning concept has appeared.
 
-![Edu_Level_Pie](images/ml_articles_by_news_section.png) <br />
+![line chart](images/ml_articles_by_news_desk.png) <br />
 
-![Edu_Level_Pie](images/count_of_ml_articles_by_yr.png) <br />
+![time series](images/ml_articles_by_yr.png) <br />
 
