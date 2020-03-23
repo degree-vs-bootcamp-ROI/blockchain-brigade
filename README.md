@@ -53,7 +53,18 @@ Additionally we wanted to look at how many people with visas are working in the 
 - Then we wanted to look at the comparison in salaries for each job title. So made a bar graph comparing job titles to salaries and another bar graph comparing the number of H1B1 visas to job titles.  
 
 ![Edu_Level_Pie](images/ny_ds_visas_by_role.png) <br />
----
+
 ![Edu_Level_Pie](images/avg_salary_for_H1.png) <br />
 
+---
+Using the NY times API we wanted to see the past and current movement of increase data science popularity through a time series data analysis. Which involves the comparison of data over a specific period of time to spot a pattern or trend. <br/>
+
+- The NYT API key was used to pull raw data from the NYT server. Once we received the API key, with the 'machine + learning' query searched for articles within a 10-year time frame (Jan 2010- December of 2019). The returned articles from the search were appended into a lists. 
+- Usina combination of functions from the Pandas and Matplotlib libraries to extract and visualize time series charts to examine the increasing buzz around machine learning over the course of the past ten (10) years. <br />
+
+An important thing to note as well, given the New York Times is a main stream print and online publication (as opposed to a specialized IT guild publication), for the data science domain to to be featured almost twice a month at this peak, speaks volumes of it impact across all domains and genres of life. It's multi-domain impact is reflected in the variety of News Desk section under which the Machine Learning concept has appeared.
+
+![Edu_Level_Pie](images/ml_articles_by_news_section.png) <br />
+
+![Edu_Level_Pie](images/count_of_ml_articles_by_yr.png) <br />
 
